@@ -8,7 +8,7 @@ Education.java
 
 Family.java
 
-Personal.java
+PersonalDetails.java
 
 These programs accept input from the user through the command line and display the provided data.This is a simple and effective way to learn how runtime arguments work in Java.
 
