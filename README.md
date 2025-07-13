@@ -2,7 +2,7 @@
 
 In this repository, you'll find three Java programs that accept user input through command line arguments and prints output based on the provided values.
 
-Program Breakdown
+Program Breakdown:
 
 Education.java
 
